@@ -38,7 +38,7 @@
 
 .header{
     grid-area: header;
-    background-color: #344e41;
+    background-image: linear-gradient(#344e41, #a3b18a)
 }
 
 .section1{
@@ -254,7 +254,7 @@ h3 {
 /* FOOTER */
 
 footer {
-    background-color: #588157
+    background-image: linear-gradient(#a3b18a,#588157);
 }
 
 .footText {
